@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/wferdinando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wferdinando&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wferdinando&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wferdinando&layout=compact&hide=javascript,SCSS,LESS,PHP,HTML,CSS&langs_count=6&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
